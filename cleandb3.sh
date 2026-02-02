@@ -1,2 +1,3 @@
-!# /bin/sh
-rm -fr **.db3
+#! /bin/sh
+rm -f index.db3
+rm -f databases/*.db3
